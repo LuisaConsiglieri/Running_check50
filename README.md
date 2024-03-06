@@ -9,5 +9,4 @@ Creating a check and running it (Writing check50 checks).
 
   Where you substitute < owner > for your own username, < repo > for the repo you’ve just created = Running_check50, master = main.
 
-(4) That’s it! You know have a repo that check50 can use to check whether a python file called hello.py
-prints Hello, world! and exits with a 0 as exit code.
+(4) That’s it! You know have a repo that check50 can use to check whether a python file called hello.py prints Hello, world! and exits with a 0 as exit code.
