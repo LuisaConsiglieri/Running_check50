@@ -1,5 +1,5 @@
 # Running_check50
-Creating a check and running it. 
+Creating a check and running it (Writing check50 checks).
 
 (1) Create a git repo. Your new repo should live at https://github.com/<user>/<repo>.
 
