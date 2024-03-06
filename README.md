@@ -7,5 +7,5 @@ Creating a check and running it.
 
 (3) Simply execute: check50 <owner>/<repo>/master/example --local
 Where you substitute <owner> for your own username,
-<repo> for the repo you’ve just created = Running_check50
-master = main
+<repo> for the repo you’ve just created = Running_check50,
+master = main.
