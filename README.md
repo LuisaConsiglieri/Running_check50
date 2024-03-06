@@ -6,9 +6,8 @@ Creating a check and running it (Writing check50 checks).
 (2) Create the .cs50.yaml file. All indentation is done by 2 spaces, as per YAML syntax.
 
 (3) Simply execute: check50 < owner >/< repo >/master/example --local
-Where you substitute < owner > for your own username,
-< repo > for the repo you’ve just created = Running_check50,
-master = main.
+
+  Where you substitute < owner > for your own username, < repo > for the repo you’ve just created = Running_check50, master = main.
 
 (4) That’s it! You know have a repo that check50 can use to check whether a python file called hello.py
 prints Hello, world! and exits with a 0 as exit code.
